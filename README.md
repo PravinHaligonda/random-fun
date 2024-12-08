@@ -32,7 +32,7 @@ From the Jupyter interface, navigate to and open a notebook (e.g., softmax_regre
 
 ## Dance Moves
 I find this insane image on activation function.
-[Twitter thread]("https://twitter.com/TheInsaneApp/status/1366324846976659461?s=20")
+[Twitter thread]('https://twitter.com/TheInsaneApp/status/1366324846976659461?s=20')
 
 <img src="./images/Screenshot 2024-12-08 090925.png">
 
