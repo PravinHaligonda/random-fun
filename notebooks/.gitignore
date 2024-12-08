@@ -126,3 +126,5 @@ cython_debug/
 # data
 /mnist
 /mnist_copy
+/data
+/mnist_3
